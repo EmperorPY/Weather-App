@@ -28,4 +28,4 @@ Python.
 **Future improvements**
 
 * More stats.
-* Desktop implementation..
+* Desktop implementation.

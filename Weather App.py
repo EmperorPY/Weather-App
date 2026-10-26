@@ -200,7 +200,7 @@ for r in range(3):
 def make_card(parent, title, emoji):
     """Create a card frame with a title label and a value label."""
     # The card itself is a rounded frame
-    card = ctk.CTkFrame(parent, corner_radius=15)
+    card = ctk.CTkFrame(parent, corner_radius=95)
     # The header (title) of the card, e.g. "🌡️ Temperature"
     header = ctk.CTkLabel(
         card, text=f"{emoji} {title}", font=("Arial", 16, "bold")

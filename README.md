@@ -36,5 +36,5 @@ Python.
 
 **Future improvements**
 
-* More stats.
-* Desktop implementation.
+- Map.
+- Recently visited tab.
